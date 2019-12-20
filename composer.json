@@ -1,5 +1,5 @@
 {
-    "name": "elcobvg/rest-api-lumen-mongodb",
+    "name": "rest-api-lumen-mongodb",
     "description": "Rest API boilerplate for Lumen micro-framework.",
     "keywords": ["rest-api", "laravel", "lumen", "mongodb", "oauth2", "fractal", "jsonapi"],
     "license": "MIT",
